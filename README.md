@@ -1,6 +1,6 @@
 # Curso de Python do Curso Em Vídeo
 
-Todas as resoluções dos Exercícios dos cursos. 
+Todas as resoluções dos Exercícios do curso. 
 
 | Curso | Módulo | Duração |
 |----------|---------|----------|
